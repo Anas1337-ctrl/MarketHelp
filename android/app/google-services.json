@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "574703733275",
+    "project_id": "plan-date-3d9a7",
+    "storage_bucket": "plan-date-3d9a7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:574703733275:android:9492e897f4ee78904106be",
+        "android_client_info": {
+          "package_name": "com.planadate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "574703733275-000uv1i7agdbccc0jnv5ma43us6sbf5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2MW-wTVZg-ycYasZRFW0Wv1KgpIkFTyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "574703733275-000uv1i7agdbccc0jnv5ma43us6sbf5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
